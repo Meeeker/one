@@ -47,11 +47,13 @@ a:visited {
 a:hover {
     color: black;
     background-color: transparent;
-    text-decoration: bold;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 a:active {
     color: grey;
     background-color: transparent;
     text-decoration: none;
+    font-weight: bold;
 }
